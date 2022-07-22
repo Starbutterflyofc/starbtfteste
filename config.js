@@ -4,7 +4,7 @@ const ownerNumber = ["558287369797@s.whatsapp.net"]
 const OriginalOwner = '558287369797' 
 // mude para seu numero
 
-const cr = '𝐁𝐑𝐈𝐙𝐀𝐒 𝐁𝐎𝐓\n' 
+const cr = 'Criador Poliana\n' 
 // texto do simbolo de verificado
 
 const prefix = '#' 
@@ -13,10 +13,10 @@ const prefix = '#'
 
 // MENSAGENS DE BAN
 
-const banmsgtype = '*Corra membro comum, o ban estar próximo*'
+const banmsgtype = '*Corra membro comum, o ban está próximo*'
 // mensagem de ban no anti tipos de mensagem
 
-const adminmsgtype = '*Tu é adm ent n vou te banir por mandar um tipo de mensagem proibida*'
+const adminmsgtype = '*Tu é o administrador, seja exemplar*'
 // mensagem de quando adm manda tipos de mensagens proibidas
 
 const banmsgporn = 'Hmmm pornozinho com antiporn ativado, ja sabe né...'
